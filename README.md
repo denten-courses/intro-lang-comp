@@ -24,11 +24,11 @@ w/ Prof. Dennis Yi Tenen
 ## Course Description
 
 How would you teach a computer to read a novel? In answering this question over the course of a
-summer semester, we will have to get down to the pixel---and then work our way up to larger
-units comprising language: words, sentences, paragraphs, stories, and story collections. Along
-the way, students will be introduced to basic concepts in linguistics and formal analysis, by
-using simple computational tools, available on any computer. These building blocks will help us
-become better close---closest possible---readers of texts, but also to perceive patterns and
+summer semester, we will have to get down to the letter---and then work our way up to larger
+units comprising written language: words, sentences, paragraphs, stories, and story
+collections. Along the way, students will be introduced to basic concepts in linguistics and
+formal literary analysis, by using simple computational tools. These building blocks will help
+us become better close---closest possible---readers of texts, but also to perceive patterns and
 structures at scale, visible across long-distances, in archival time and space. No prior
 experience is necessary to participate: the only course requirement is interest in language,
 history, and technology.
@@ -38,7 +38,7 @@ history, and technology.
 3 hour sessions, 2 times a week, for 6 weeks.
 
 We will generally spend the first section of the week on discussing the reading and the second
-session on workshops and excesses, in preparation for homework.
+session on workshops and exercises, in preparation for homework.
 
 ## Provisional Schedule & Reading List
 
@@ -92,15 +92,29 @@ Patterns and arrangements. Composition. Style guides.
 
 Worksheet 4
 
-### Week 5: Story
+### Week 5: Story, Narrative, Discourse
 
-Visualizing stories. Context persistence.
+Visualizing stories. Myth, plot, situation. Genre. Structure and texture. Context persistence.
+
+-  Selections from *Speech Genres and Other Late Essays* by Michail Bakhtin.
+- "Stalking a Generative Poetics." by Schauber, Ellen, and Ellen Spolsky in *New Literary
+  History* 12.3 (1981): 397-413.
+- "Paradigm Shift in Plot Models: An Outline of the History of Narratology" by Ruth Ronen in
+  *Poetics Today* 1990 11(4):817–842.
 
 Worksheet 5
 
 ### Week 6: Collection, Archive
 
-Historical and institutional context. Sample bias. Corpus analysis.
+Historical and institutional context. Description vs. prescription. Sample bias. Corpus
+analysis.
+
+- "Towards a Description of English Usage" by Randolph  Quirk in the *Transactions of the
+  Philological Society* (November 1960).
+-  "A Vector Space Model for Automatic Indexing" by Gerard Salton and others in *Communications
+   of the Association for Computing Machinery*  (1975) 18.11:613–620.
+- "The Image of Absence: Archival Silence, Data Visualization, and James Hemings" by Lauren
+  Klein in *American Literature* (2013) 85.4: 661–688.
 
 Worksheet 6
 
