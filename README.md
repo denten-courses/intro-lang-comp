@@ -12,13 +12,13 @@ header-includes:
 - | 
     \rhead{
         \ifthenelse{\value{page}=1}
-        {\textbf{Department of English and Comparative Literature} | Summer 2023}
+        {\textbf{Sungkyunkwan University} | Summer 2025}
         {}
     }
 - \fancyfoot[CO, CE] {\thepage}
 ---
 
-# Introduction to Language and Computation
+# Language and Computation
 w/ Prof. Dennis Yi Tenen
 
 ## Course Description
@@ -32,13 +32,6 @@ us become better close---closest possible---readers of texts, but also to percei
 structures at scale, visible across long-distances, in archival time and space. No prior
 experience is necessary to participate: the only course requirement is interest in language,
 history, and technology.
-
-## Course Structure
-
-3 hour sessions, 2 times a week, for 6 weeks.
-
-We will generally spend the first section of the week on discussing the reading and the second
-session on workshops and exercises, in preparation for homework.
 
 ## Provisional Schedule & Reading List
 
@@ -125,10 +118,3 @@ Worksheet 6
 - 25%     Final exam
 - 25%     Final paper / project
 
-## University Policies
-
-When in doubt, cite! Plagiarism is insulting to your fellow students, your instructors, and to
-the research community at large. It wastes my time and yours, and is, ultimately, not worth the
-risk. Consult Columbia’s guidelines at <http://www.college.columbia.edu/academics/integrity> or
-ask me for help early in the writing process. We will discuss the ethics of code reuse in a
-separate session.
